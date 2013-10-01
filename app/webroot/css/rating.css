@@ -1,0 +1,33 @@
+    #rateStatus{ clear:both; height:26px; margin:5px 0 0; color: #1AA94A;}
+    #rateMe{float:left; clear:both; height:auto; padding:0px;}
+    #rateMe li{float:left;list-style:none;}
+    #rateMe li a:hover,
+    #rateMe .on{background:url(../img/admin_fullstar.gif) no-repeat;}
+    #rateMe a{float:left;background:url(../img/admin_emptystar.gif) no-repeat;width:16px; height:16px; color:#1AA94A;}
+	.serialString2 {float: left;margin-left: 155px;margin-top: -22px;}
+	.serialString2 a {background: url("../img/rating_cancel.gif") no-repeat scroll 0 0 transparent;color: #1AA94A;float: left;height: 16px; padding-right: 20px; width: 16px;}
+    #ratingSaved{display:none;}
+    .saved{color:red; }
+	
+.feed_leaveCommentFrame { width:auto; padding:10px 10px; }
+.feed_leaveCommentFrame .feed_leaveCommentTitle {
+	width:100%; 
+	font-size:18px; 
+	border-bottom:1px solid #333; 
+	padding:4px 0;  
+	color:#285B8A;
+}
+.feed_leaveCommentFrame .feed_leaveCommentTitle span {
+	display:inline-block; 
+	color:#1AA94A; 
+	font-size: 18px;	
+}
+.feed_leaveCommentFrame .leaveCommentPara {
+	width:100%; display:block; text-align:left; margin:5px 0; font-size:12px; color:#30609A;	
+}
+.feed_leaveCommentFrame div .feed_commentTxtarea {
+	width:97%; height:80px; padding:2px 2px; border:1px solid #ccc;
+}
+.feed_leaveCommentFrame .txtLimit {
+	width:97%; display:block; text-align:right; margin:2px 0 0; color:#30609A; font-size:14px;	
+}

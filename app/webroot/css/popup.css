@@ -1,0 +1,155 @@
+.popup{margin:0 auto;width:648px;}
+.contactUsPopup{margin:0 auto; width:648px;}
+.contactUsMain{ width:630px; margin:0 auto; }
+
+.popupTop{ margin:0 57px}
+.popupBottom{margin:0 57px;background:url(../img/bottom_middle.png) repeat-x bottom; margin: 0 53px 0 57px;}
+.popupTop{ background:url(../img/top-middle.png) repeat-x bottom;}
+
+.popupBottomLeft,.popupBottomRight{width:57px;height:37px;}
+
+.popupTopLeft,.popupTopRight{ width:57px;height:55px;}
+.popupTopLeft{ background:url(../img/top_left.png);}
+
+.popupBottomLeft{ background:url(../img/bottom_left.png) no-repeat;}
+.popupBottomRight{ background:url(../img/bottom_right.png) no-repeat;}
+.popupBottomLeft{float:left;margin-left:-57px;}
+.popupBottomRight{float:right;margin-right:-57px;}
+
+.popupTopLeft{ float:left; margin-left:-57px;}
+.popupTopRight{ float:right; margin-right:-57px;}
+
+
+
+.popupTopRight{background:url(../img/top_right.png) no-repeat right top; background-position:top;}
+/*.popupBottomLeft{background-position:14px 0;}
+.popupBottomRight{background-position:-20px 0;}
+*/
+.popupMid { margin: 0 26px; position:relative;}
+
+.poupmidLeft { background: url(../img/shadow_l.png) repeat-y left; margin-left: -14px}
+.poupmidRight { background: url(../img/shadow_r.png) repeat-y right; margin-right: -23px; padding: 0 40px 0 45px;}
+
+.midTop{ background:url(../img/green_box_popup.png) no-repeat; width:579px; height:43px; margin-top:-23px; margin-left:-18px; position:absolute;}
+.emailTxt{ font-size:24px; font-weight:bold; font-family:"trebuchet MS"; color:#FFFFFF; padding:5px 20px;}
+
+.formbackcolor{ background:#FFFFFF;}
+.formDiv{ padding:3px 8px 0 0; font-family:'calibri';  }
+.formDivIn{  border-top:1px solid #ffffff; background:#FFFFFF; }
+.RattingIn{  border-top:1px solid #ffffff; background:#FFFFFF; margin-top:18px;}
+.msgTxtBoxArea{ height: 128px; margin-left:16px; margin-top:16px; padding:1px 3px; width: 408px; border:none; font-size:14px; float:left; }
+.formTxtBoxArea{ height: 100px; margin-left:14px; margin-top:12px; padding:1px 3px; width: 400px; border:none; font-size:14px; float:left; }
+.formTxt{  font-size:14px; color:#444444; padding-top:10px; width:100px;}
+.msgformTxt{  font-size:14px; color:#444444; padding-top:10px; width:80px;}
+.formDivHeight{ height:38px; margin-left:5px;}
+.formDivHeightTxt{ font-size:12px; text-align:right; color:#999999; width:321px; font-style:italic; margin-top:3px; padding-bottom:20px;}
+.msgTxtBlue{background:url(../img/msgBlack.png) no-repeat; width:440px; height:50px;}
+
+.msgTxtcolo{background:url(../img/msgError.png) no-repeat; width:440px; height:50px;}
+.inputTxtBlue{background:url(../img/inputBlack.png) no-repeat; width:240px; height:37px;}
+.formTxtBox{ height: 20px; margin-left: 8px; margin-top: 8px; padding: 1px 6px; width: 205px; border:none; font-size:14px; color:#444444;}
+.msgTxtBox  {
+    border: medium none;
+    color: #444444;
+    font-size: 14px;
+    height: 20px;
+    margin-left: 15px;
+    margin-top: 14px;
+    padding: 1px 6px;
+    width: 405px;
+}
+.InputTxtcolo{background:url(../img/inputcolor.png) no-repeat; width:240px; height:37px;}
+.inputTextAreaBlue{	 background: url("../img/inputTextArea.png") no-repeat scroll 0 0 transparent;    height: 160px;    width: 440px;}
+.inputTextAreaRed{	 background: url("../img/inputTextAreaError.png") no-repeat scroll 0 0 transparent;    height: 160px;    width: 440px;}
+.contactus{ text-align:right; background:url(../img/email.png) no-repeat; width:75px; height:32px; margin-right:18px; float:right; margin-top:5px;border:none;}
+.contactusOver{ text-align:right; background:url(../img/email-highlight.png) no-repeat; width:75px; height:32px; margin-right:18px; float:right; margin-top:5px;border:none;}
+.alert{ background:url(../img/alert.png) no-repeat; width:186px; height:37px; font-size:12px; color:#ff0000;}
+.alertTxt{ height: 30px; padding: 12px 0 0; text-align: center;font-family: "Trebuchet MS";}
+.alertback{ background:url(../img/alertback.png) no-repeat; width:186px; height:37px; font-size:12px; color:#ff0000;}
+
+.popupBottomSection{ background:url(../img/popupfooter.png); font-family:'calibri'; padding-left:3px;  height:110px; width:100%; }
+.popupRegistration{ font-size:14px; color:#444444; font-weight:bold;}
+.RegistrationCheck{ float:left; }
+.mleft8{ margin-left:5px; margin-top:2px;}
+
+.popLeftTxt{ font-size:12px; color:#999999; width:360px; margin-top:5px; font-family:'calibri'; }
+.popupEmail{ background:url(../img/send.png) no-repeat; height:49px; width:152px; padding-top:5px; }
+.popupEmailSubmit{background:url(../img/start.png) no-repeat; width:152px; padding-top:5px; font-size:18px; text-align:center; color:#FFFFFF; padding:12px 35px 18px 0; font-weight:bold; border:none; cursor:pointer;}
+.submitButton1{ text-align:right;}
+
+
+.darkBlue{ color:#177ddd;}
+.sendPicks{ background:url(../img/email.png) no-repeat; color:#FFFFFF; text-align:center; font-size:22px; margin-right:25px; font-weight:bold; margin-top:2px;width:101px;height:31px;border:0;}
+.sendPicksOver{background:url(../img/email-highlight.png) no-repeat; color:#FFFFFF; text-align:center; font-size:22px; margin-right:25px; font-weight:bold; margin-top:2px;width:101px;height:31px;border:0;}
+.sendPicks a{ color:#FFFFFF; text-decoration:none;}
+.borderGray{ border-top:1px solid #e3e3e3; width:100%;}
+
+
+/*				PRODUCT RATING		*/
+.popTopLeft{ background:url(../img/pop_shadow.png); width:240px; padding-top:5px; padding-left:5px; padding-bottom:10px; font-family:'calibri'; font-size:14px; font-weight:bold; color:#424242;}
+.popTopRight{ width:275px; margin-right:5px; margin-top:5px; font-family:'calibri'; font-size:14px; text-align:left; font-weight:bold;}
+.popTopRightRating{ width:275px; margin-right:5px; margin-top:5px; font-family:"trebuchet MS"; font-size:14px; text-align:left;}
+.popSaasuTxt{ margin-left:10px;font-size:36px; font-weight:bold; font-family:"trebuchet MS"; color:#424242;}
+.mleft10{ margin-left:10px;}
+.popTopRightTxt{ font-weight:bold !important; font-size:20px; !important; color:#727272; padding-top:10px;}
+
+.mleft5{ margin-left:5px;}
+.middlePopup{ background:url(../img/pop_mid.png); width:553px;}
+.height30{ height:30px;}
+.trDetailsTxt td{ color:#656565 !important; padding:7px; font-size:12px; }
+.selectTxt td{ background:#e8eff2; font-size:12px !important; color:#1393da !important; padding:7px;}
+
+.popBotwidth{ width:260px; font-family:'calibri'; margin-left:10px;}
+.boldTxt{ padding-bottom:3px; font-size:14px; font-weight:bold; text-align:left;}
+.cheapRatingsMid{ font-family:'calibri'; font-weight:bold; color:#7d7d7d; font-size:12px;}
+
+.functinoaly{ height:25px;float:left;}
+.functinoalyTxt{ padding-left: 10px;   width: 100px;}
+.starLeft{ margin:-22px 0 0 85px !important;width:64px}
+.submitTxt{ background:url(../img/submit.png) no-repeat; width:72px; height:25px; margin-left:22px; border:none; font-size:12px; font-weight:bold; color:#FFFFFF; text-transform:uppercase;} 
+
+
+
+/* WHITE ROUNDED CORNER BOX */
+.whiteBox {margin:5px 0 0 -32px;}
+.whiteBoxTop, .whiteBoxBottom, .whiteBoxTopRight, .whiteBoxBottomRight {height: 7px;}
+.whiteBoxMid { padding: 0 7px; background: #fff;}
+.whiteBoxTop, .whiteBoxBottom { margin-right: 7px;}
+.whiteBoxTopRight, .whiteBoxBottomRight { float: right; margin-right: -7px; width: 7px;}
+.whiteBoxTop { background: url(../img/wc_tl.png) no-repeat left top;}
+.whiteBoxBottom { background: url(../img/wc_bl.png) no-repeat left bottom;}
+.whiteBoxTopRight { background: url(../img/wc_tr.png) no-repeat right top;}
+.whiteBoxBottomRight { background: url(../img/wc_br.png) no-repeat right bottom;}
+
+/*                       STATIC PAGES              */
+.formDivIn ul
+	{
+		padding:5px 5px 5px 15px;
+	}
+.formDivIn ul li
+	{
+		margin:5px 0 0 5px;
+		list-style-type: circle;
+	}
+
+.formDivIn p
+	{
+		text-align:justify;
+		text-indent:40px;
+	}
+
+
+.close{ background:url(../img/btn_close.png) no-repeat; width: 52px; height: 53px; position: absolute; z-index: 99; right: -31px; top: -47px}
+.closeButton{ float:right; margin-right:-8px; margin-top:-8px;}
+
+
+/*				CONTACT US				*/			
+.selectQuestion{ margin-top:10px; margin-left:10px; width:200px; height:20px; border:none;}
+.selectOption{ padding:2px 10px;}
+.messageDiv{ height:113px; margin-left:8px;}
+.messageTxt{ margin-left:5px; height:100px; width:205px; overflow:auto;}
+.txtAlineL{ text-align:left;}
+
+
+input.btTxt{background:url(../img/buy_btn.png.png) no-repeat !important; width:152px; padding-top:5px; font-size:18px; text-align:center; color:#FFFFFF; padding:12px 35px 18px 0; font-weight:bold; border:none; cursor:pointer;}
+

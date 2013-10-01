@@ -1,0 +1,10 @@
+[13-Sep-2011 15:34:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/app_controller.php on line 65
+[13-Sep-2011 15:35:16] PHP Fatal error:  Call to undefined method DateTime::getTimestamp() in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/app_controller.php on line 64
+[13-Sep-2011 15:37:17] PHP Fatal error:  Call to undefined function  now() in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/app_controller.php on line 64
+[13-Sep-2011 15:50:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/app_controller.php on line 62
+[13-Sep-2011 15:51:22] PHP Fatal error:  Call to undefined function  now() in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/app_controller.php on line 60
+[13-Sep-2011 17:27:16] PHP Parse error:  syntax error, unexpected '{' in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/app_controller.php on line 58
+[13-Sep-2011 17:36:48] PHP Fatal error:  Class 'AppController' not found in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/controllers/product_controller.php on line 2
+[13-Sep-2011 17:47:55] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/app_controller.php on line 115
+[13-Sep-2011 17:50:39] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/app_controller.php on line 116
+[13-Sep-2011 17:51:07] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/iphsoco1/public_html/www.cheapstart.com.au/cheapstart/app/app_controller.php on line 116

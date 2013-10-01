@@ -1,0 +1,20 @@
+.twitterDiv  {
+    
+    float: left;
+    width: 100px;
+}
+.facebookDiv  {
+    
+    float: left;
+    width: 140px;
+}
+.googleDiv  {
+    
+    float: left;
+    width: 175px;
+}
+.linkedinDiv  {
+   
+    float: left;
+    width: 100px;
+}
